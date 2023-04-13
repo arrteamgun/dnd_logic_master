@@ -1,0 +1,15 @@
+/Users/rtimganov/Repositories/DnD Logic Master/bin/Debug/net7.0/DnD Logic Master
+/Users/rtimganov/Repositories/DnD Logic Master/bin/Debug/net7.0/DnD Logic Master.deps.json
+/Users/rtimganov/Repositories/DnD Logic Master/bin/Debug/net7.0/DnD Logic Master.runtimeconfig.json
+/Users/rtimganov/Repositories/DnD Logic Master/bin/Debug/net7.0/DnD Logic Master.dll
+/Users/rtimganov/Repositories/DnD Logic Master/bin/Debug/net7.0/DnD Logic Master.pdb
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.csproj.AssemblyReference.cache
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.AssemblyInfoInputs.cache
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.AssemblyInfo.cs
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.csproj.CoreCompileInputs.cache
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.dll
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/refint/DnD Logic Master.dll
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.pdb
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/DnD Logic Master.genruntimeconfig.cache
+/Users/rtimganov/Repositories/DnD Logic Master/obj/Debug/net7.0/ref/DnD Logic Master.dll
