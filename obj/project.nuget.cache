@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MAEMjsssyjLNlBw4T16F5ZqgCIM2JvVk8PQ6OUo2q/UVFx3gZg3eB1HHB2OlO2JKCzKbk0oWAFiwCdvshzo8iA==",
+  "dgSpecHash": "pv/03flphtjszWBG1XzGkHKP4i+yGjO5C5CE6PYCYKIR2RKGlBfiv+0KUFgQr6ahT3hTrieV3U3CE194k4OTCA==",
   "success": true,
-  "projectFilePath": "/Users/rtimganov/Repositories/DnD Logic Master/DnD Logic Master.csproj",
+  "projectFilePath": "/Users/rtimganov/Repositories/DnD Logic Master/dnd_logic_master/DnD Logic Master.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

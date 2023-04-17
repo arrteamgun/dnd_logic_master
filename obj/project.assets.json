@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rtimganov/Repositories/DnD Logic Master/DnD Logic Master.csproj",
+      "projectUniqueName": "/Users/rtimganov/Repositories/DnD Logic Master/dnd_logic_master/DnD Logic Master.csproj",
       "projectName": "DnD Logic Master",
-      "projectPath": "/Users/rtimganov/Repositories/DnD Logic Master/DnD Logic Master.csproj",
+      "projectPath": "/Users/rtimganov/Repositories/DnD Logic Master/dnd_logic_master/DnD Logic Master.csproj",
       "packagesPath": "/Users/rtimganov/.nuget/packages/",
-      "outputPath": "/Users/rtimganov/Repositories/DnD Logic Master/obj/",
+      "outputPath": "/Users/rtimganov/Repositories/DnD Logic Master/dnd_logic_master/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rtimganov/.nuget/NuGet/NuGet.Config"
