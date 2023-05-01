@@ -42,9 +42,9 @@
               "target": "Package",
               "version": "[2.2.0-preview1-35029, )"
             },
-            "Microsoft.AspNetCore.Mvc": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
